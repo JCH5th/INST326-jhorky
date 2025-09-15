@@ -1,0 +1,5 @@
+Week of 9/7-9/14
+I have used AI for some help in parts of assigned tasks, like using it to help connect RStudio to GitHub. 
+I also tried to prompt it to generate an image in Adobe InDesign, although I wasn't satisfied with any of the option so I decided to make something myself.
+Another notable use of AI this week was getting a recipe (that I double checked with reddit) to make a savory pretzel dinner.
+https://chatgpt.com/share/68c76639-1664-8004-bee9-2490c0976ad8
