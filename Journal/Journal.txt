@@ -4,9 +4,14 @@ I also tried to prompt it to generate an image in Adobe InDesign, although I was
 Another notable use of AI this week was getting a recipe (that I double checked with reddit) to make a savory pretzel dinner.
 https://chatgpt.com/share/68c76639-1664-8004-bee9-2490c0976ad8
 
+<<<<<<< HEAD
 
 Week of 9/15-9/21
 I used AI to help me create a few resumes for simple job applications around College Park. I also used it to help me trim my 
 notes down for my government class. I tried to use it to help me memorize East Asia, but it wasn't really any help. I also used
 it to help me with some of the INST326 exercises that I got stuck on. Specifically on the 26th and 30 questions in the 
 exercises, I was having some trouble with my loops, so I used Claude to debug and recommend alternative solutions.
+=======
+Week of 9/15-9/21
+I used AI to help me create a few resumes for simple job applications around College Park. I also used it to help me trim my notes down for my government class. I tried to use it to help me memorize East Asia, but it wasn't really any help. I also used it to help me with some of the INST326 exercises that I got stuck on. Specifically on the 26th and 30 questions in the exercises, I was having some trouble with my loops, so I used Claude to debug and recommend alternative solutions.
+>>>>>>> 5385c81afc4fbfd611e038f0d99e67fa1dfd632d
