@@ -8,7 +8,12 @@ https://chatgpt.com/share/68c76639-1664-8004-bee9-2490c0976ad8
 Week of 9/15-9/21
 I used AI to help me create a few resumes for simple job applications around College Park. I also used it to help me trim my 
 notes down for my government class. I tried to use it to help me memorize East Asia, but it wasn't really any help. I also used
-it to help me with some of the INST326 exercises that I got stuck on. Specifically on the 26th and 30 questions in the 
+it to help me with some of the INST326 exercises that I got stuck on. Specifically on the 26th and 30th questions in the 
 exercises, I was having some trouble with my loops, so I used Claude to debug and recommend alternative solutions.
 
 
+Week of 9/22-/28
+I used AI to help debug the nested loops for exercises 12 and 19, as I was struggling to get them to a readable or concise
+state. I also tried to use it to create a mnemonic for memorizing countries and their capitals in Southeast Asia. The 
+recommendations for that were pretty useless, but it was still a nice way to consume and memorize information in a new
+way, as opposed to the online map quiz I took 20 times in the weeks leading up to my quiz.
