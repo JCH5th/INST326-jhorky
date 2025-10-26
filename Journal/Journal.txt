@@ -18,7 +18,22 @@ recommendations for that were pretty useless, but it was still a nice way to con
 way, as opposed to the online map quiz I took 20 times in the weeks leading up to my quiz.
 
 Week of 9/28-10/5
-I used AI to help me learn about the search strategies and ways to use key words, which was important for one of my other classes. I also used it to help me study for my first International Relations Midterm, by summarizing notes and clarifying some key definitions that I was consistently getting wrong on Quizlet. 
+I used AI to help me learn about the search strategies and ways to use key words, which was important for one of my other 
+classes. I also used it to help me study for my first International Relations Midterm, by summarizing notes and clarifying 
+some key definitions that I was consistently getting wrong on Quizlet. 
 
 Week of 10/5-10/12
-AI helped me complete some R code for my statistics class. I have used R a lot in the past, but my last R-heavy class was two semesters ago, so I have used it to help me remember important keywords and commands. I also used it to help me study for my international relations quiz, asking it to create a quiz on my notes and expand on the concepts that I provided it with. Finally, I also needed some help with some of the booleans on the Week 5 Exercises, particularly on #20-Settings.
+AI helped me complete some R code for my statistics class. I have used R a lot in the past, but my last R-heavy class was two
+semesters ago, so I have used it to help me remember important keywords and commands. I also used it to help me study for my
+international relations quiz, asking it to create a quiz on my notes and expand on the concepts that I provided it with. 
+Finally, I also needed some help with some of the booleans on the Week 5 Exercises, particularly on #20-Settings.
+
+Week of 10/12-10/19
+I used AI for question 2 of my INST327 assignment, which is what we were instructed to do. I looked at how the AI
+response came up short, and failed to meet assignment guidelines for a project that I was supposed to prompt it to complete.
+
+
+Week of 10/19-10/26
+I used AI to learn about metadata and key vocab terms about Metadata and their schema. I didn't have any other practical
+ways to use it for studying, because my stats class has provided practice problems, and my other courses didn't have 
+many assignments or assessments due this week.
