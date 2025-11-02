@@ -37,3 +37,7 @@ Week of 10/19-10/26
 I used AI to learn about metadata and key vocab terms about Metadata and their schema. I didn't have any other practical
 ways to use it for studying, because my stats class has provided practice problems, and my other courses didn't have 
 many assignments or assessments due this week.
+
+Week of 10/26-11/2
+I used AI to help create the structures and debug my classes and methods for the Project Part 2 code. I also used it to help
+synthesize notes from my statistics class, in the final days of studying for a midterm in that course. I also used AI to help explain why some of my code from the exercises this week wasn't working. Finally, it also helped me create and correct a flan recipe, so I can make a nice, sweet treat.
