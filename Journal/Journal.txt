@@ -40,4 +40,13 @@ many assignments or assessments due this week.
 
 Week of 10/26-11/2
 I used AI to help create the structures and debug my classes and methods for the Project Part 2 code. I also used it to help
-synthesize notes from my statistics class, in the final days of studying for a midterm in that course. I also used AI to help explain why some of my code from the exercises this week wasn't working. Finally, it also helped me create and correct a flan recipe, so I can make a nice, sweet treat.
+synthesize notes from my statistics class, in the final days of studying for a midterm in that course. I also used AI to help
+explain why some of my code from the exercises this week wasn't working. Finally, it also helped me create and correct a flan
+recipe, so I can make a nice, sweet treat.
+
+Week of 11/2-11/8
+AI helped me study for an international relations midterm by quizzing me on my notes. It was a useful tool in identifying 
+the topics and terms that I consistently struggled with. It could also develop new study techniques or provide definitions
+whenever I needed, so I could alter my course of learning at any point. Other than that I only used it for simple cooking
+help and instructions.
+
