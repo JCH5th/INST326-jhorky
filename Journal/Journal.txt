@@ -62,3 +62,6 @@ to help reformat my team's project for INST326 to look more like the professor's
 more structure and direction for the project. I also used it for exercise 7 to fix the errors in my code, after I failed
 it several times.
 
+Week of 11/16-11/23
+I didn't have many assignments or personal reasons to use AI this week, so I only used it for some help with INST326 
+exercises that I got stuck on.
