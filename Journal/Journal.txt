@@ -65,3 +65,8 @@ it several times.
 Week of 11/16-11/23
 I didn't have many assignments or personal reasons to use AI this week, so I only used it for some help with INST326 
 exercises that I got stuck on.
+
+Week of 11/30-12/7
+This week, I used AI to help summarize my notes and slides for my international relations class, to prepare for my final exam.
+Similarly, it was some help to me when studying for my statistics exam. I also used it to look over my project code,
+and ensure that everything was working properly.
