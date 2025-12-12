@@ -70,3 +70,9 @@ Week of 11/30-12/7
 This week, I used AI to help summarize my notes and slides for my international relations class, to prepare for my final exam.
 Similarly, it was some help to me when studying for my statistics exam. I also used it to look over my project code,
 and ensure that everything was working properly.
+
+Week of 12/7-12/14
+I used AI to help debug some code in projects. I also used it to make recommendations to update my Mexican meal ideas.
+Namely, I stated the elements I usually create for Mexican night: Fajitas, Chipotle Chicken, Guacamole, Beans, Rice, and 
+Queso. I asked for other ideas to improve the meal, but didn't have the ingredients to make anything else of note.
+
